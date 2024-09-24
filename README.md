@@ -9,11 +9,11 @@
  HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, Ruby on Rails, PHP, Laravel
 - :bar_chart: Database:
 PostgreSQL, MariaDB, MySQL
-- :laptop: Other:
+- :desktop_computer: Other:
 Git, Github, NPM, Gulp, Next.js, Tailwind,Visual Studio Code, PHP Storm, Composer, Docker, AWS, Azure
-### Languages :left_speech_bubble:
-- Polish
-- English
+### Languages
+- :left_speech_bubble: Polish
+- :left_speech_bubble: English
 
 <!--
 **anetagloc/anetagloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
