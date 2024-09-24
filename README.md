@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on three projects. The first is a mobile application for the Foundation implemented in Ruby on Rails on the back end. The second is a room reservation project implemented in Laravel (php framework). The third project is a project implementation in Next.js. More details soon.
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Symfony
 - 👯 I’m looking to collaborate on projects in Laravel or Ruby on Rails or Next.js
 - 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/aneta-mirgos/) or [on my site](https://portfolio-brisi.vercel.app/en)
 - :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
