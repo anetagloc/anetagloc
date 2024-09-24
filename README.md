@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on projects in Laravel or Ruby on Rails or Next.js
 - 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/aneta-mirgos/) or [on my site](https://portfolio-brisi.vercel.app/en)
-- :woman_walking: Hobby: Zumba and other fittness classes, Walking, Programming
+- :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
 ### My tech stack:
 - :technologist: Front-end + Back-end:
  HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, Ruby on Rails, PHP, Laravel
 - :bar_chart: Database:
 PostgreSQL, MariaDB, MySQL
--:laptop: Other:
+- :laptop: Other:
 Git, Github, NPM, Gulp, Next.js, Tailwind,Visual Studio Code, PHP Storm, Composer, Docker, AWS, Azure
 ### Languages :left_speech_bubble:
 - Polish
