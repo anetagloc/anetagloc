@@ -10,7 +10,7 @@
 - :bar_chart: Database:
 PostgreSQL, MariaDB, MySQL
 - :desktop_computer: Other:
-Git, Github, NPM, Gulp, Next.js, Tailwind,Visual Studio Code, PHP Storm, Composer, Docker, AWS, Azure
+Git, Github, NPM, Gulp, Next.js, Tailwind,Visual Studio Code, PHP Storm, Composer, Docker, Azure
 ### Languages
 - :left_speech_bubble: Polish
 - :left_speech_bubble: English
