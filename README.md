@@ -6,7 +6,7 @@
 - :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
 ### My tech stack:
 - :technologist: Front-end + Back-end:
- HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, Ruby on Rails, PHP, Laravel
+ HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, Ruby on Rails, PHP, Laravel, Node.js
 - :bar_chart: Database:
 PostgreSQL, MariaDB, MySQL
 - :desktop_computer: Other:
