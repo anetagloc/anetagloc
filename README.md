@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on three projects. The first is a mobile application for the Foundation implemented in Node.js (Express.js) on the back end, the second is a web application written on the back-end in Laravel and the last is a co-creation of a Wordpress-based website.
 - 🌱 I’m currently learning Symfony
 - 👯 I’m looking to collaborate on projects in Laravel, Next.js or Node.js
-- 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/aneta-mirgos/) or [on my site](https://portfolio-brisi.vercel.app/en)
 - :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
 ### My tech stack:
 - :technologist: Front-end + Back-end:
