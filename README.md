@@ -1,11 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on three projects. The first is a mobile application for the Foundation implemented in Node.js (Express.js) on the back end, the second is a web application written on the back-end in Laravel and the last is a co-creation of a Wordpress-based website.
-- 🌱 I’m currently learning Symfony
-- 👯 I’m looking to collaborate on projects in Laravel, Next.js or Node.js
+- 🔭 I’m currently working on one project. The first is a mobile application for the Foundation implemented in Node.js (Express.js) on the back end and React Native on the front end.
+- 🌱 I’m currently learning about digital accessibility focused for mobile application
+- 👯 I’m looking to collaborate on projects in Laravel or create mobile application
 - :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
 ### My tech stack:
 - :technologist: Front-end + Back-end:
- HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, Ruby on Rails, PHP, Laravel, Node.js
+ HTML, CSS, SCSS, Bootstrap, Javascript, Next.js, React, TypeScript, Flexbox/Grid, Tailwind, PHP, Laravel, Node.js, React Native
 - :bar_chart: Database:
 PostgreSQL, MariaDB, MySQL
 - :desktop_computer: Other:
