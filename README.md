@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on one project. The first is a mobile application for the Foundation implemented in Node.js (Express.js) on the back end and React Native on the front end.
+- 🔭 I’m currently working on one project. It's a mobile application for the Foundation implemented in Node.js (Express.js) on the back end and React Native on the front end.
 - 🌱 I’m currently learning about digital accessibility focused for mobile application
 - 👯 I’m looking to collaborate on projects in Laravel or create mobile application
 - :palm_tree: Hobby: Zumba and other fittness classes, Walking, Programming
